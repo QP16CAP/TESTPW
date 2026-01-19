@@ -1,6 +1,3 @@
-//commentaire
-let message: string = "Bonjour le monde!";
-console.log(message);
 //ajout d'un commentaire
 //fin du code
 //autre commentaire
